@@ -19,3 +19,19 @@ Prenons l’exemple de Novartis. Novartis est une société pharmaceutique suiss
 Ce n’est qu’un exemple. L’intelligence artificielle offre aux utilisateurs professionnels et aux experts techniques des opportunités illimitées pour faire des choses qui n’étaient pas possibles auparavant. Grâce à l’accès à l’intelligence artificielle, ils peuvent découvrir des insights masqués, trouver des informations critiques, améliorer la collaboration et même automatiser des tâches répétitives.
 
 ![image](images/1.png)
+
+## Perspective de Microsoft
+
+Chez Microsoft, nous travaillons pour nous assurer que chaque utilisateur (du comptable au chercheur) puisse aller encore plus loin grâce à l’intelligence artificielle. Il ne devrait pas être nécessaire de disposer d’une formation dans la science des données pour tirer parti de ces expériences.
+
+Nous pensons que l’intelligence artificielle doit être utilisée pour améliorer, sans remplacer, les capacités humaines. Les bons outils d’intelligence artificielle permettent aux employés de mieux appliquer leur expertise et de la compléter avec des insights dotés de l’intelligence artificielle, ce qui les rend plus novateurs et efficaces.
+
+Pour ce faire, nous intégrons l’intelligence dans les applications métier que les gens utilisent quotidiennement.
+
+
+Nous souhaitons également permettre à quiconque d’ajouter des fonctionnalités d’intelligence artificielle à des applications, quelle que soit leur expérience technique. Nous travaillons à démocratiser le développement de l’intelligence artificielle avec des outils et des plateformes sans code pour que les utilisateurs puissent créer leurs propres modèles d’intelligence artificielle. Nous proposons également des modèles prédéfinis pour les scénarios courants accessibles aux non-développeurs.
+![image 2](images/2.png)
+
+Enfin, nous nous engageons à faire progresser le développement et l’utilisation responsables de l’intelligence artificielle. Nous pensons qu’il est essentiel de prendre une approche axée sur l’humain en termes de développement et de gouvernance de l’intelligence artificielle. Cette approche doit accepter des perspectives différentes et mettre en évidence l’écoute, l’apprentissage et la réponse à mesure que la technologie évolue. Ensemble, nous pouvons nous assurer que la nouvelle génération de l’intelligence artificielle est conçue, générée et utilisée de manière responsable.
+
+Ensuite, nous écouterons Navrina Singh, cofondatrice actuelle de Credo.ai et ex-directrice du service Product Management chez Microsoft AI, qui discutera des avantages de la mise à l’échelle de l’intelligence artificielle pour tous les membres d’une organisation.
