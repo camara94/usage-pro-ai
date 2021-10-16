@@ -36,3 +36,13 @@ Nous souhaitons également permettre à quiconque d’ajouter des fonctionnalit�
 Enfin, nous nous engageons à faire progresser le développement et l’utilisation responsables de l’intelligence artificielle. Nous pensons qu’il est essentiel de prendre une approche axée sur l’humain en termes de développement et de gouvernance de l’intelligence artificielle. Cette approche doit accepter des perspectives différentes et mettre en évidence l’écoute, l’apprentissage et la réponse à mesure que la technologie évolue. Ensemble, nous pouvons nous assurer que la nouvelle génération de l’intelligence artificielle est conçue, générée et utilisée de manière responsable.
 
 Ensuite, nous écouterons Navrina Singh, cofondatrice actuelle de Credo.ai et ex-directrice du service Product Management chez Microsoft AI, qui discutera des avantages de la mise à l’échelle de l’intelligence artificielle pour tous les membres d’une organisation.
+
+## Vue d’ensemble
+
+Regardez cette vidéo de Navrina Singh, cofondatrice actuelle de Credo.ai et ex-directrice du service Product Management chez Microsoft AI. Navrina Singh explique pourquoi la démocratisation de l’intelligence artificielle (IA) au sein d’une organisation est essentielle à sa réussite. Navrina Singh partage également des insights clés qui permettront aux responsables d’entreprises d’adapter l’intelligence artificielle à chaque employé.
+
+[Le lien de la vidéo](https://docs.microsoft.com/fr-fr/learn/modules/enable-business-users-with-key-ai-uses-cases/3-executive-overview)
+
+Pour réaliser une transformation IA complète, l’intelligence artificielle doit être mise à la disposition de chaque employé, quel que soit son rôle ou son expertise technique. Avec un accès à l’intelligence artificielle dans le cadre de leur travail quotidien, les utilisateurs professionnels et les experts techniques peuvent être plus productifs et exécuter des tâches qui n’étaient pas possibles auparavant.
+
+Examinons certaines des fonctionnalités clés de l’intelligence artificielle que les employés de chaque secteur industriel peuvent utiliser dans leur travail quotidien.
