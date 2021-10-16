@@ -46,3 +46,13 @@ Regardez cette vidéo de Navrina Singh, cofondatrice actuelle de Credo.ai et ex-
 Pour réaliser une transformation IA complète, l’intelligence artificielle doit être mise à la disposition de chaque employé, quel que soit son rôle ou son expertise technique. Avec un accès à l’intelligence artificielle dans le cadre de leur travail quotidien, les utilisateurs professionnels et les experts techniques peuvent être plus productifs et exécuter des tâches qui n’étaient pas possibles auparavant.
 
 Examinons certaines des fonctionnalités clés de l’intelligence artificielle que les employés de chaque secteur industriel peuvent utiliser dans leur travail quotidien.
+
+## Intelligence artificielle pour le raisonnement
+
+Aujourd’hui, un grand nombre de modèles d’intelligence artificielle sont disponibles. Toutefois, la plupart des travailleurs ont uniquement accès aux modèles qui ont été incorporés dans des applications à des fins spécifiques. Dans les domaines complexes qui nécessitent une expertise approfondie, les employés ont besoin de la flexibilité nécessaire pour faire pivoter leur approche s’ils ont une nouvelle idée ou de nouvelles preuves à utiliser. Indiquer à l’avance à un développeur ou à un scientifique des données ce qui est requis serait peu pratique et sans doute impossible.
+
+La véritable transformation se produit lorsque tout le monde peut utiliser un large éventail de modèles d’intelligence artificielle afin de raisonner sur des informations complexes non structurées. Cela signifie qu’ils peuvent choisir les modèles d’intelligence artificielle à utiliser à des fins différentes et les sources d’informations à analyser avec ces modèles.
+
+C’est en cela que consiste l’intelligence artificielle pour le raisonnement. Elle est très utile pour les personnes ayant une expertise stratégique, comme les chercheurs, les responsables des opérations, les techniciens sur le terrain, les responsables marketing, les développeurs d’activité, etc. Grâce à des applications puissantes d’intelligence artificielle, ils peuvent appliquer leurs connaissances de manière plus efficace, accélérer les itérations du cycle d’apprentissage et fournir un impact commercial réel à un rythme jamais atteint auparavant.
+
+![image](images/3.png)
