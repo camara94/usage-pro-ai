@@ -60,3 +60,28 @@ C’est en cela que consiste l’intelligence artificielle pour le raisonnement.
 ## Mackmyra
 
 [Mackmyra Whisky](https://news.microsoft.com/europe/features/meet-the-worlds-first-ai-created-whisky/), un distillateur de whisky suédois, utilise l’intelligence artificielle pour le raisonnement afin d’aider ses Master Blenders à produire une qualité de niveau supérieur. Les modèles d’intelligence artificielle de Mackmyra utilisent des recettes, des données de vente et des préférences client existantes pour générer plus de 70 millions de recettes de whisky nouvelles et innovantes. Les Master Blenders évaluent, testent et affinent les recommandations de l’intelligence artificielle en fonction de leur expertise et de leurs connaissances approfondies dans le domaine. Grâce à la puissance de l’intelligence artificielle, ils peuvent innover à un rythme et avec un niveau de détail qui étaient auparavant inaccessibles.
+
+## Générer de l’intelligence artificielle sans code
+
+Il peut également arriver que les utilisateurs professionnels souhaitent créer leurs propres modèles d’intelligence artificielle ou intégrer un modèle dans une application eux-mêmes. Grâce à des plateformes et des outils sans code, les utilisateurs professionnels peuvent désormais ajouter des fonctionnalités d’intelligence artificielle à leurs applications et automatiser leur flux de travail, quelle que soit leur expertise technique.
+
+Par exemple, imaginons qu’un responsable hôtelier souhaite utiliser l’intelligence artificielle pour analyser les commentaires des clients afin de mieux comprendre comment améliorer le service client. Le responsable hôtelier peut utiliser des outils d’intelligence artificielle sans code pour créer un modèle capable de classer les nouveaux commentaires des clients au fur et à mesure de leur réception.
+
+Nous avons même ajouté ces fonctionnalités sans code à notre célèbre [Power Platform]((https://powerplatform.microsoft.com/fr-fr/)). Avec [AI Builder](https://powerapps.microsoft.com/fr-fr/ai-builder/), les utilisateurs professionnels peuvent former, publier et exécuter des modèles d’intelligence artificielle à l’aide de modèles personnalisables et d’un processus guidé sans écrire une seule ligne de code. Ils peuvent également utiliser des modèles prédéfinis pour des scénarios courants.
+
+![image 4](images/4.png)
+
+Les utilisateurs professionnels peuvent tirer parti d’un large éventail de modèles personnalisables pour l’apprentissage de leurs propres modèles d’intelligence artificielle, notamment :
+* **Traitement de formulaires** : identifie la structure de vos documents en fonction des exemples que vous fournissez pour extraire le texte des formulaires correspondants.
+* **Détection d’objets** : permet de compter, de localiser et d’identifier les objets sélectionnés dans une image. Vous pouvez utiliser ce modèle dans PowerApps pour extraire des informations à partir d’images que vous prenez avec l’appareil photo.
+* **Prédiction** : identifie les tendances dans les données d’historique, puis détecte les tendances apprises dans les nouvelles données afin de prédire les résultats futurs.
+
+Les utilisateurs professionnels peuvent également tirer parti d’un large éventail de modèles d’intelligence artificielle prédéfinis qui ne nécessitent aucune formation ni personnalisation. Ces modèles d’intelligence artificielle prédéfinis incluent :
+
+* Les modèles **Lecteur de cartes de visite** permettent l’extraction d’informations à partir d’images de cartes de visite, comme le nom, le poste, l’adresse, l’e-mail, l’entreprise et les numéros de téléphone.
+* Les modèles **Analyse des sentiments** détectent le sentiment positif ou négatif dans les données de texte et fournissent un score de sentiment global pour chaque donnée de texte.
+* Les modèles **Reconnaissance de texte** extraient les mots des documents numériques, imprimés et même manuscrits et des images vers des flux de caractères lisibles par ordinateur.
+
+Avec les plateformes de développement offrant un accès démocratisé comme AI Builder, ceux qui comprennent le mieux les problèmes métier peuvent créer les solutions d’intelligence artificielle appropriées pour les résoudre.
+
+Examinons maintenant quelques exemples montrant comment les utilisateurs professionnels peuvent tirer parti de l’intelligence artificielle déjà incorporée dans les applications qu’ils utilisent quotidiennement.
