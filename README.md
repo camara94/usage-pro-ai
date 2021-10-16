@@ -30,6 +30,7 @@ Pour ce faire, nous intégrons l’intelligence dans les applications métier qu
 
 
 Nous souhaitons également permettre à quiconque d’ajouter des fonctionnalités d’intelligence artificielle à des applications, quelle que soit leur expérience technique. Nous travaillons à démocratiser le développement de l’intelligence artificielle avec des outils et des plateformes sans code pour que les utilisateurs puissent créer leurs propres modèles d’intelligence artificielle. Nous proposons également des modèles prédéfinis pour les scénarios courants accessibles aux non-développeurs.
+
 ![image 2](images/2.png)
 
 Enfin, nous nous engageons à faire progresser le développement et l’utilisation responsables de l’intelligence artificielle. Nous pensons qu’il est essentiel de prendre une approche axée sur l’humain en termes de développement et de gouvernance de l’intelligence artificielle. Cette approche doit accepter des perspectives différentes et mettre en évidence l’écoute, l’apprentissage et la réponse à mesure que la technologie évolue. Ensemble, nous pouvons nous assurer que la nouvelle génération de l’intelligence artificielle est conçue, générée et utilisée de manière responsable.
