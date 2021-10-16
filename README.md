@@ -56,3 +56,7 @@ La véritable transformation se produit lorsque tout le monde peut utiliser un l
 C’est en cela que consiste l’intelligence artificielle pour le raisonnement. Elle est très utile pour les personnes ayant une expertise stratégique, comme les chercheurs, les responsables des opérations, les techniciens sur le terrain, les responsables marketing, les développeurs d’activité, etc. Grâce à des applications puissantes d’intelligence artificielle, ils peuvent appliquer leurs connaissances de manière plus efficace, accélérer les itérations du cycle d’apprentissage et fournir un impact commercial réel à un rythme jamais atteint auparavant.
 
 ![image](images/3.png)
+
+## Mackmyra
+
+[Mackmyra Whisky](https://news.microsoft.com/europe/features/meet-the-worlds-first-ai-created-whisky/), un distillateur de whisky suédois, utilise l’intelligence artificielle pour le raisonnement afin d’aider ses Master Blenders à produire une qualité de niveau supérieur. Les modèles d’intelligence artificielle de Mackmyra utilisent des recettes, des données de vente et des préférences client existantes pour générer plus de 70 millions de recettes de whisky nouvelles et innovantes. Les Master Blenders évaluent, testent et affinent les recommandations de l’intelligence artificielle en fonction de leur expertise et de leurs connaissances approfondies dans le domaine. Grâce à la puissance de l’intelligence artificielle, ils peuvent innover à un rythme et avec un niveau de détail qui étaient auparavant inaccessibles.
